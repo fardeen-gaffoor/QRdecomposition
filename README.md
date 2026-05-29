@@ -57,8 +57,7 @@ QR_Decomposition(a)
 ```
 ## Output
 ```
-![alt text](image.png)
-
+QRdecomposition/image-1.png
 ```
 
 ## Result
